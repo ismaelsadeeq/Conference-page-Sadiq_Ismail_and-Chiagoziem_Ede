@@ -131,11 +131,10 @@ p {
   list-style-type: none;
   text-decoration: none;
 }
-.venueLink {
+.venueLinc {
   color: white;
   text-decoration: none;
-  border: none;
 }
-.venueLink:hover {
+.venueLinc:hover {
   color: #648880;
 }
