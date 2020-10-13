@@ -151,3 +151,13 @@ body {
 .margin-bottom {
     margin-top: 2%;
 }
+/* Media Query Trial */
+@media (max-width:900px){
+    .container{
+        width: 100%;
+    }
+    .container-1 {
+        flex-direction: column;
+        
+    }
+}

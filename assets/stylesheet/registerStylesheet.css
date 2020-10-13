@@ -109,6 +109,8 @@ color: #648880;
 margin-left: 2em;
 font-weight: normal;
 line-height: 1.4;
+color: #648880;
+list-style: square;
 
 }
 
@@ -162,7 +164,9 @@ font-size: 1em;
 border-radius: .4em ;
 border: none;
 }
-
+.purchase-btn:hover {
+	background: #a1d3b0;
+}
 
 .homeFooter {
 color: white;
