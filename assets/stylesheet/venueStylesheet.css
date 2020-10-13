@@ -71,3 +71,11 @@
     line-height: 1.5;
     color:#888888 ;
 }
+
+.venueDiv {
+    display: flex;
+    flex-direction: column;
+    width: 68%; 
+    margin: 0 auto;
+    border: 5px solid magenta;
+}
