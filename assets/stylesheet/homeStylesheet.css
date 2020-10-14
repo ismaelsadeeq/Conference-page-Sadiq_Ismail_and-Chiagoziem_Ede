@@ -1,65 +1,64 @@
 body {
-    color: white;
+  color: white;
 }
 .head {
-    width: 100%;
-    height:78vh;
-    background-color: #293F50;
+  width: 100%;
+  height:78vh;
+  background-color: #293F50;
 }
 .container {
-    width: 65%;
-    display: flex;
-    flex-direction: column;
-    margin: 0 auto;
+  width: 65%;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
 }
 .container-1 {
-    margin:5% 0;
-    display: flex ;
-    flex-direction: row;
-    justify-content: space-between;
+  margin:5% 0;
+  display: flex ;
+  flex-direction: row;
+  justify-content: space-between;
 }
 .header {
-    width: 20%;
-    font-weight:200 ;
-    font-size: 3em;
-   
+  width: 20%;
+  font-weight:200 ;
+  font-size: 3em;
 }
 .colora {
-    color:#648880;
-    font-weight:300 ;
+  color:#648880;
+  font-weight:300 ;
 }
 .date {
-    font-size: 1.3em;
-    display: flex;
-    justify-content: flex-end;
-    margin-top: 8%;
+  font-size: 1.3em;
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 8%;
 }
 .nav-list {
-    display: flex;
-    margin:6% 0 0 0;   
+  display: flex;
+  margin:6% 0 0 0;   
 }
 .nav-list-item {
-    margin-left:4em;
-    font-size: 1em;
+  margin-left:4em;
+  font-size: 1em;
     
 }
 .nav-hover:hover {
-    color:#648880;
+  color:#648880;
 }
 
 .container-2 {
-    display: flex;
-    flex-direction: column;
-    width: 90%;
-    margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  margin: 0 auto;
 }
 .header2 {
-    text-align: center;
-    font-weight: 300;
-    font-size: 2.25em;
+  text-align: center;
+  font-weight: 300;
+  font-size: 2.25em;
 }
 .paragraph {
-    text-align: center;
+  text-align: center;
     font-size: 1.5em;
     font-weight: 200;
     line-height: 1.6;
@@ -122,8 +121,8 @@ body {
     text-decoration: none;
 }
 .homeLi {
-    list-style-type: none;
-    display: flex 1;
+		list-style-type: none;
+		width: 50%;
     margin-left:8%;
     font-size: 0.9em;
 }
