@@ -151,7 +151,8 @@ p {
   }
   .nav-list-item {
     justify-content: flex-start;
-    margin-left: .7em;
+    margin-left: 2.3em;
+    font-size: .7em;
   }
   .date {
     font-size: 1em;
@@ -161,6 +162,10 @@ p {
   .paragraph {
     padding-bottom: 5%;
   }
+  .subhead {
+    height: 100%;
+    padding-bottom: 2%;
+}
   .venueDiv {
     flex-direction: column;
   }
