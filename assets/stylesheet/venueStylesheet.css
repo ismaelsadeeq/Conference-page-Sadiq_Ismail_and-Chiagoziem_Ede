@@ -138,3 +138,27 @@ p {
 .venueLinc:hover {
   color: #648880;
 }
+
+@media (max-width:600px){
+  .container-1{
+    flex-direction: column;
+  }
+  .navigation {
+    display: flex;
+    flex-direction: column;
+  }
+  .venueDiv {
+    flex-direction: column;
+  }
+  .fourSeasons,
+  .chicago {
+    flex-direction: column;
+    width: fit-content;
+    width: 65%;
+  }
+  .chicagoMap,
+  .fourSeasonsMap{
+    width: 50%;
+
+  }
+}

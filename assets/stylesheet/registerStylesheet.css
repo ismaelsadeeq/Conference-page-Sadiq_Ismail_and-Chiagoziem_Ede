@@ -1,7 +1,7 @@
 
 .head {
 width: 100%;
-height: 29vh;
+/* height: 40%; */
 background: #293F50;
 }
 .container {
@@ -80,7 +80,6 @@ display: flex;
 flex-direction: row;
 width: 68%;
 margin: 0 auto;
-height: 90vh;
 justify-content: space-between;
 }
 .box1 {
@@ -169,49 +168,65 @@ border: none;
 }
 
 .homeFooter {
-color: white;
-display: flex;
+    color: white;
+    display: flex;
 }
 .footerDiv {
-flex: 1;
-margin: 4% 0 0 0;
+    flex: 1;
+    margin: 4% 0 0 0;
 }
 .homeUl {
-display: flex;
-justify-content: flex-end;
+    display: flex;
+    justify-content: flex-end;
 }
 .homeLink {
-color: white;
-text-decoration: none;
+    color: white;
+    text-decoration: none;
 }
 .homeLi {
-list-style-type: none;
-display: flex 1;
-margin-left:8%;
-font-size: 0.9em;
+    list-style-type: none;
+    display: flex 1;
+    margin-left:8%;
+    font-size: 0.9em;
 }
-
-
 .homeFooter {
-width: 65%;
-display: flex;
-margin: 0 auto;
+    width: 65%;
+    display: flex;
+    margin: 0 auto;
 }
-.footer {
-background-color: #293F50;
-width: 100%;
-height: 15vh;
-}
+
+
 .homeLink:hover {
-color:  #648880;
+    color:  #648880;
 }
 .parag {
-color:  #648880;
-font-size: 0.9em;
+    color:  #648880;
+    font-size: 0.9em;
 }
 .pgraph {
-color:#888888;
+    color:#888888;
 }
 .margin-bottom {
-margin-top: 2%;
+    margin-top: 2%;
+}
+
+.footer {
+    background-color: #293F50;
+    width: 100%;
+    height: 10vh;
+}
+
+@media (max-width:600px){
+	.container-1{
+	  flex-direction: column;
+	}
+	.navigation {
+	  display: flex;
+	  flex-direction: column;
+	}
+	.container-2 {
+        flex-direction: column;
+        width:80% ;
+    }
+    
 }
