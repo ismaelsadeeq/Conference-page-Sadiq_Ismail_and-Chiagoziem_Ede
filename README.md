@@ -19,7 +19,7 @@ It is a three page website
   * register
 
 ## The prototype of the app
-![the_picture_preview_of_my_Conference page.](/assets/images/Demo.png "This is the Conference page prototype.")
+![the_picture_preview_of_my_Conference page.](./assets/images/Demo.png "This is the Conference page prototype.")
 
 ## Developed with
 HTML,CSS and JavaScript
