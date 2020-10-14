@@ -234,8 +234,9 @@ border: none;
     }
     .nav-list-item {
         justify-content: flex-start;
-        margin-left: 1em;
-    }
+        margin-left: 1.7em;
+         font-size:.7em ;
+}
     .date {
         font-size: 1em;
         margin-bottom: .2em;
