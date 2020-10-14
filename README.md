@@ -11,10 +11,7 @@ Chiagoziem Ede
 ## Functionalities
 It is a three page website
 
-### Features
-
-* Display comference Information
-* Speakers
+### Display comference Information
   * Schedule 
   * venue
   * register
