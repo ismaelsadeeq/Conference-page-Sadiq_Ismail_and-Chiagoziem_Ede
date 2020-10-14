@@ -14,7 +14,6 @@ It is a three page website
 ### Features
 
 * Display comference Information
-* Speakers
   * Schedule 
   * venue
   * register

@@ -146,6 +146,9 @@ p {
     display: flex;
     flex-direction: column;
   }
+  .subhead {
+    height: 45vh;
+  }
   .venueDiv {
     flex-direction: column;
   }
@@ -159,5 +162,7 @@ p {
   .fourSeasonsMap{
     width: 50%;
 
+  }.footerDiv {
+    width: 90%;
   }
 }
