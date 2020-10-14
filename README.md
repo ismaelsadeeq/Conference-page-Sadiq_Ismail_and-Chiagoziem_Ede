@@ -13,7 +13,7 @@ It is a three page website
 
 ### Features
 
-* Display comference Information
+### Display comference Information
   * Schedule 
   * venue
   * register
