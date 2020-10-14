@@ -6,7 +6,7 @@ This is an assessment project to practice our skills in CSS layout positioning a
 Ismail Sadiq
 Chiagoziem Ede
 ## Live demo
-[See project live here] ()
+[See project live here] (https://raw.githack.com/ismaelsadeeq/Conference-page-Sadiq_Ismail_and-Chiagoziem_Ede/register/home.html)
 
 ## Functionalities
 It is a three page website
@@ -20,7 +20,7 @@ It is a three page website
   * register
 
 ## The prototype of the app
-![the_picture_preview_of_my_Conference page.](cal.png "This is the Conference page prototype.")
+![the_picture_preview_of_my_Conference page.](assets/images/Demo.png"This is the Conference page prototype.")
 
 ## Developed with
 HTML,CSS and JavaScript
