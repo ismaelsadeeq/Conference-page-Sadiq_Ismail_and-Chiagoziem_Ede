@@ -146,6 +146,18 @@ p {
     display: flex;
     flex-direction: column;
   }
+  .header {
+    font-size: 2em;
+  }
+  .nav-list-item {
+    justify-content: flex-start;
+    margin-left: 1em;
+  }
+  .date {
+    font-size: 1em;
+    margin-bottom: .2em;
+    justify-content: center;
+  }
   .subhead {
     height: 45vh;
   }
