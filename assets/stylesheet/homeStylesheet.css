@@ -168,11 +168,8 @@ body {
 			font-size:2em ;
 			width: 100%;
 		}
-		.container-2 {
-			/* width: 100%; */
-		}
 		.header2 {
-			font-size: 2em;
+			font-size: 1em;
 		}
     .main {
         flex-direction: column;
@@ -186,10 +183,12 @@ body {
     }
     .register{
 				width: 60%;
-				margin-bottom: 5%;
+        margin-bottom: 5%;
+        font-size:.5em ;
+        padding: 1rem 0;
     }
     .paragraph {
-      font-size:1.3em ;
+      font-size:1em ;
     }
 		.nav-list-item {
 			justify-content: flex-start;

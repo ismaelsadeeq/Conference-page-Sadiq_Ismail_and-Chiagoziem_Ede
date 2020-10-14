@@ -158,8 +158,8 @@ p {
     margin-bottom: .2em;
     justify-content: center;
   }
-  .subhead {
-    height: 45vh;
+  .paragraph {
+    padding-bottom: 5%;
   }
   .venueDiv {
     flex-direction: column;

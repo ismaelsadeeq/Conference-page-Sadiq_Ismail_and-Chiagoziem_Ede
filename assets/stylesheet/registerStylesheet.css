@@ -216,7 +216,7 @@ border: none;
     height: 15vh;
 }
 
-@media (max-width:600px){
+@media (max-width:600px){ 
 	.container-1{
 	  flex-direction: column;
     }
