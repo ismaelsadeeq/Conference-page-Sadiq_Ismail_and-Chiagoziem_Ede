@@ -167,6 +167,9 @@ p {
 }
   .venueDiv {
     flex-direction: column;
+    width: 100%;
+    align-items: center;
+    overflow: hidden;
   }
   .fourSeasons,
   .chicago {
@@ -176,9 +179,13 @@ p {
   }
   .chicagoMap,
   .fourSeasonsMap{
-    width: 50%;
+    width: 100%;
+    overflow: hidden;
 
   }.footerDiv {
     width: 90%;
   }
+  /* body {
+    overflow: hidden;
+  } */
 }
