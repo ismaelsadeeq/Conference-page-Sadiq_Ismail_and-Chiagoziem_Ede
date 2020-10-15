@@ -182,10 +182,10 @@ body {
     width: 100%;
   }
   .register{
-		width: 60%;
+		width: 33%;
     margin-bottom: 5%;
     font-size:.5em ;
-    padding: 1rem 0;
+    padding: .8rem .1em;
   }
   .paragraph {
     font-size:1em ;
