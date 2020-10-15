@@ -11,9 +11,7 @@ This is an assessment project to practice our skills in CSS layout positioning a
 ## Functionalities
 It is a three page website
 
-### Features
-
-### Display comference Information
+### Display conference Information
   * Featured article
   * recent posts
   * About me
