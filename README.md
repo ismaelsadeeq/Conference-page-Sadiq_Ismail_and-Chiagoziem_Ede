@@ -13,7 +13,7 @@ It is a three page website
 
 ## Display conference Information
   * Featured article
-  * recent posts
+  * Recent posts
   * About me
 
 ## The prototype of the app
