@@ -59,152 +59,152 @@ body {
 }
 .paragraph {
   text-align: center;
-    font-size: 1.5em;
-    font-weight: 200;
-    line-height: 1.6;
+  font-size: 1.5em;
+  font-weight: 200;
+  line-height: 1.6;
 }
 .register {
-    width: 20%;
-    align-self: center;
-    margin-top: 3%;
-    padding: 1.4rem 0;
-    border: 1px solid white;
-    text-align: center;
-    border-radius: 5%;
+  width: 20%;
+  align-self: center;
+  margin-top: 3%;
+  padding: 1.4rem 0;
+  border: 1px solid white;
+  text-align: center;
+  border-radius: 5%;
 }
 .register:hover {
-    background-color: white;
-    color:#648880;
+  background-color: white;
+  color:#648880;
 }
 
 
 
 
 .main {
-    display: flex;
-    width: 65%;
-    margin: 0 auto;
-    justify-content: space-between;
-    align-content: center;
-    margin-top: 5%;
+  display: flex;
+  width: 65%;
+  margin: 0 auto;
+  justify-content: space-between;
+  align-content: center;
+  margin-top: 5%;
 }
 .mBottom {
-    margin-bottom: 10%;
+  margin-bottom: 10%;
 }
 .homeDiv {
-    flex-basis: 30%;
-    width: 30%;
+  flex-basis: 30%;
+  width: 30%;
 }
 .homeImg {
-    border-radius: 2%;
-    height: 35%;
+  border-radius: 2%;
+  height: 35%;
 }
 .firstHeading,
 .secondHeading {
-    color: #648880;
-    margin-top: 4%;
+  color: #648880;
+  margin-top: 4%;
 }
 .homeFooter {
-    color: white;
-    display: flex;
+  color: white;
+  display: flex;
 }
 .footerDiv {
-    flex: 1;
-    margin: 4% 0 0 0;
+  flex: 1;
+  margin: 4% 0 0 0;
 }
 .homeUl {
-    display: flex;
-    justify-content: flex-end;
+  display: flex;
+  justify-content: flex-end;
 }
 .homeLink {
-    color: white;
-    text-decoration: none;
+  color: white;
+  text-decoration: none;
 }
 .homeLi {
-		list-style-type: none;
-		width: 50%;
-    margin-left:8%;
-    font-size: 0.9em;
+	list-style-type: none;
+	width: 50%;
+  margin-left:8%;
+  font-size: 0.9em;
 }
 .homeFooter {
-    width: 65%;
-    display: flex;
-    margin: 0 auto;
+  width: 65%;
+  display: flex;
+  margin: 0 auto;
 }
 
 
 .homeLink:hover {
-    color:  #648880;
+  color:  #648880;
 }
 .parag {
-    color:  #648880;
-    font-size: 0.9em;
+  color:  #648880;
+  font-size: 0.9em;
 }
 .pgraph {
-    color:#888888;
+  color:#888888;
 }
 .margin-bottom {
-    margin-top: 2%;
+  margin-top: 2%;
 }
 
 .footer {
-    background-color: #293F50;
-    width: 100%;
-    height: 15vh;
+  background-color: #293F50;
+  width: 100%;
+  height: 15vh;
 }
 
 @media (max-width:600px){
-    .head {
-				display: flex;
-				width: 100%;
-        flex-direction: column;
-        height: 120%;
-    }
-    .container-1 {
-        flex-direction: column;
+  .head {
+		display: flex;
+		width: 100%;
+    flex-direction: column;
+    height: 120%;
+  }
+  .container-1 {
+    flex-direction: column;
         
-		}
-		.header {
-			font-size:1.5em ;
-			width: 100%;
-		}
-		.header2 {
-			font-size: 1em;
-		}
-    .main {
-        flex-direction: column;
+	}
+	.header {
+		font-size:1.5em ;
+		width: 100%;
+	}
+	.header2 {
+		font-size: 1em;
+	}
+  .main {
+  flex-direction: column;
     
-    } 
-    .homeImg {
-        width: 100%;
-    }
-    .homeDiv {
-        width: 100%;
-    }
-    .register{
-				width: 60%;
-        margin-bottom: 5%;
-        font-size:.5em ;
-        padding: 1rem 0;
-    }
-    .paragraph {
-      font-size:1em ;
-    }
-		.nav-list-item {
-			justify-content: flex-start;
-      margin-left: 1.7em;
-      font-size:.7em ;
-    }
-    .date {
-      font-size: 1em;
-      margin-bottom: .2em;
-      justify-content: center;
-    }
-		.footer {
-			margin-top: 2%;
-			width: 100%;
-			height: 12vh;
-		}
+  } 
+  .homeImg {
+  width: 100%;
+  }
+  .homeDiv {
+    width: 100%;
+  }
+  .register{
+		width: 60%;
+    margin-bottom: 5%;
+    font-size:.5em ;
+    padding: 1rem 0;
+  }
+  .paragraph {
+    font-size:1em ;
+  }
+	.nav-list-item {
+	  justify-content: flex-start;
+    margin-left: 1.7em;
+    font-size:.7em ;
+  }
+  .date {
+    font-size: 1em;
+    margin-bottom: .2em;
+    justify-content: center;
+  }
+	.footer {
+		margin-top: 2%;
+		width: 100%;
+		height: 12vh;
+	}
     
    
 }

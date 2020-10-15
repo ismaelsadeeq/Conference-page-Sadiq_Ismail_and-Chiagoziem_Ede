@@ -1,84 +1,83 @@
 .head {
-    width: 100%;
-    background: #293F50;
+  width: 100%;
+  background: #293F50;
 }
 .container {
-    width: 68%;
-    display: flex;
-    flex-direction: column;
-    margin: 0 auto;
+  width: 68%;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
 }
 .container-1 {
-    margin:3% 0;
-    display: flex ;
-    flex-direction: row;
-    justify-content: space-between;
+  margin:3% 0;
+  display: flex ;
+  flex-direction: row;
+  justify-content: space-between;
 }
 .header {
-    width: 20%;
-    font-weight:200 ;
-    font-size: 3em;
-   
+  width: 20%;
+  font-weight:200 ;
+  font-size: 3em;
 }
 .colora {
-    color:#648880;
-    font-weight:300 ;
+  color:#648880;
+  font-weight:300 ;
 }
 .colorb,
 .nav-hover {
-    color: white;
+  color: white;
 }
 .date {
-    font-size: 1.3em;
-    display: flex;
-    justify-content: flex-end;
-    margin-top: 8%;
+  font-size: 1.3em;
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 8%;
 }
 .nav-list {
-    display: flex;
-    margin:6% 0 0 0;   
+  display: flex;
+  margin:6% 0 0 0;   
 }
 .nav-list-item {
-    margin-left:4em;
-    font-size: 0.9em;   
+  margin-left:4em;
+  font-size: 0.9em;   
 }
 .nav-hover:hover {
-    color:#648880;
+  color:#648880;
 }
 .subhead {
-    width: 100%;
-    height: 35vh;
-    background:linear-gradient(to right, #a1d3b0, #f6f1d3); ;
+  width: 100%;
+  height: 35vh;
+  background:linear-gradient(to right, #a1d3b0, #f6f1d3); ;
 }
 .Venue {
-    text-align: center;
-    font-size: 2.25em;
-    font-weight: normal;
-    color:#648880;
-    padding: 3% 0 1% 0;
+  text-align: center;
+  font-size: 2.25em;
+  font-weight: normal;
+  color:#648880;
+  padding: 3% 0 1% 0;
 }
 .para {
-    width: 65%;
-    display: flex;
-    margin: 0 auto;
+  width: 65%;
+  display: flex;
+  margin: 0 auto;
 }
 .paragraph {
-    text-align: center;
-    font-size: 1.3em;
-    line-height: 1.5;
-    color:#888888 ;
+  text-align: center;
+  font-size: 1.3em;
+  line-height: 1.5;
+  color:#888888 ;
 }
 .venueDiv {
-    display: flex;
-    flex-direction: column;
-    width: 68%; 
-    margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  width: 68%; 
+  margin: 0 auto;
 }
 .chicago,
 .fourSeasons {
-    display: flex;
-    justify-content: flex-end;
-    padding: 4.13em 0 2.75em 0;
+  display: flex;
+  justify-content: flex-end;
+  padding: 4.13em 0 2.75em 0;
 }
 h2,
 a {
