@@ -184,7 +184,7 @@ border: none;
 }
 .homeLi {
     list-style-type: none;
-    display: flex 1;
+    width: flex 1;
     margin-left:8%;
     font-size: 0.9em;
 }
@@ -215,10 +215,14 @@ border: none;
     height: 15vh;
 }
 
-@media (max-width:600px){
+@media (max-width:600px){ 
 	.container-1{
 	  flex-direction: column;
-	}
+    }
+    .header {
+        font-size:2em ;
+        width: 100%;
+    }
 	.navigation {
 	  display: flex;
 	  flex-direction: column;
@@ -226,6 +230,28 @@ border: none;
 	.container-2 {
         flex-direction: column;
         width:80% ;
+    }
+    .nav-list-item {
+        justify-content: flex-start;
+        margin-left: 1.7em;
+         font-size:.7em ;
+}
+    .date {
+        font-size: 1em;
+        margin-bottom: .2em;
+        justify-content: center;
+    }
+    .header {
+        font-size:2em ;
+        width: 100%;
+    }
+    .subhead {
+        height: 100%;
+        padding-bottom: 2%;
+    }
+    .paragraph {
+        font-size: 1em;
+        padding-bottom: 2%;
     }
     .box1 {
         width: 100%;

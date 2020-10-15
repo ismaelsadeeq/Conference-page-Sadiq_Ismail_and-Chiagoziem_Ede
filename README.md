@@ -1,12 +1,10 @@
-# Conference-page-Sadiq_Ismail_and-Chiagoziem_Ede
-This is an assessment project to practice our skills in CSS layout positioning and javascript
+# Simple-blog-posts
 
 
 ## Author 
 Ismail Sadiq
-Chiagoziem Ede
 ## Live demo
-[See project live here] (https://raw.githack.com/ismaelsadeeq/Conference-page-Sadiq_Ismail_and-Chiagoziem_Ede/register/home.html)
+[See project live here] ()
 
 ## Functionalities
 It is a three page website
@@ -14,9 +12,9 @@ It is a three page website
 ### Features
 
 ### Display comference Information
-  * Schedule 
-  * venue
-  * register
+  * Featured article
+  * recent posts
+  * About me
 
 ## The prototype of the app
 ![the_picture_preview_of_my_Conference page.](/assets/images/Demo.png "This is the Conference page prototype.")
