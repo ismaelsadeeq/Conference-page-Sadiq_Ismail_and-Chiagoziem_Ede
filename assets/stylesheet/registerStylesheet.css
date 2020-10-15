@@ -213,10 +213,39 @@ select {
     flex-direction: column;
     width:80% ;
   }
+  .header {
+		font-size:1.5em ;
+		width: 100%;
+	}
+	.header2 {
+		font-size: 1em;
+  }
+  .date {
+    font-size: 1em;
+    margin-bottom: .2em;
+    justify-content: center;
+  }
+  .paragraph {
+    padding-bottom: 5%;
+  }
+  .subhead {
+    height:100% ;
+    padding-bottom: 2%;
+  }
+  .nav-list-item {
+    justify-content: flex-start;
+    margin-left: 2.8em;
+    font-size: .7em;
+  }
   .box1 {
     width: 100%;
   }
   .box2 {
     width: 100%;
-  }  
-}
+  }
+  .homeLink{
+    font-size: .8em;
+  }
+  .homeFooter {
+    width: 80%;
+  }
